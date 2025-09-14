@@ -1,6 +1,0 @@
-setup.py
-pyacrcloud.egg-info/PKG-INFO
-pyacrcloud.egg-info/SOURCES.txt
-pyacrcloud.egg-info/dependency_links.txt
-pyacrcloud.egg-info/not-zip-safe
-pyacrcloud.egg-info/top_level.txt
